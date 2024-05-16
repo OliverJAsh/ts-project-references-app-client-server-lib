@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "outDir": "./dist/"
+  },
+  "references": [{ "path": "../app/tsconfig.json" }]
+}
